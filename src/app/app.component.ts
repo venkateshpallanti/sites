@@ -6,8 +6,8 @@ import { Component } from '@angular/core';
   template: `
     <h1> Angular CI Example! </h1>
     <nav>
-      <a routerLink="/red">RED</a>
-      <a routerLink="/blue">BLUE</a>
+      <a routerLink="/red">RED123</a>
+      <a routerLink="/blue">BLUE123</a>
     </nav>
     <router-outlet></router-outlet>
   `
